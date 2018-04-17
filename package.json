@@ -1,0 +1,19 @@
+{
+  "name": "effortless-encryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonyarchukcodemotion/effortless-encryption.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonyarchukcodemotion/effortless-encryption/issues"
+  },
+  "homepage": "https://github.com/antonyarchukcodemotion/effortless-encryption#readme",
+  "dependencies": {
+    "aws-sdk": "^2.188.0"
+  }
+}
