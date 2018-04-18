@@ -1,6 +1,6 @@
 {
   "name": "effortless-encryption",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -13,6 +13,7 @@
     "url": "https://github.com/antonyarchukcodemotion/effortless-encryption/issues"
   },
   "homepage": "https://github.com/antonyarchukcodemotion/effortless-encryption#readme",
+  "types": "index.d.ts",
   "dependencies": {
     "aws-sdk": "^2.188.0"
   }
