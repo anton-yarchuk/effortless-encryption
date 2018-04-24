@@ -15,7 +15,7 @@ module.exports.bufferToString = (buffer, encoding = DEFAULT_BUFFERS_ENCODING) =>
  *
  * @param string
  * @param encoding
- * @returns {Buffer2}
+ * @returns {Buffer}
  */
 module.exports.stringToBuffer = (string, encoding = DEFAULT_BUFFERS_ENCODING) =>
   Buffer.from(string, encoding);
